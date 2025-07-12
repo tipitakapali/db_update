@@ -1,0 +1,10 @@
+{
+  "mobileAndroidLatestVersion": "25.6.29",
+  "mobileAndroidMinAllowedVersion": "25.6.29",
+
+  "mobileIOSLatestVersion": "25.6.29",
+  "mobileIOSMinAllowedVersion": "25.6.29",
+
+  "desktopLatestVersion": "25.7.11",
+  "desktopMinAllowedVersion": "25.7.11"
+}
